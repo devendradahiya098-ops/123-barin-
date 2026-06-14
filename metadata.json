@@ -1,0 +1,6 @@
+{
+  "name": "Brain Arena",
+  "description": "Sleek dark cybernetic speed puzzles and logic duels arena with AI opponents, ranks, shopping, and real-time multiplayer simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
